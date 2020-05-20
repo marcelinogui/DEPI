@@ -1,0 +1,97 @@
+Unidade;Objeto;Ano início;Ano Finalização;Empresa;"Área
+m²"; Custo do projeto; Valor orçado para a Obra
+CPO;Sanitários bloco modulado;2014;2015;Graco;37,22; 13.614,90 ; 109.274,24 
+DGRH;Cobertura quadras PRODECAD;2013;2015;Graco;308,32; 15.994,13 ; 451.813,85 
+FEEC;Lab. TI e Multimídia - PCI e entrada de energia;2014;2015;Graco;250,57; 25.063,50 ; 701.549,27 
+HEMO;Lab. doenças hemorrágicas e trombóticas;2015;2015;Graco;113,13; 11.208,71 ; 555.072,22 
+HEMO;Acessibilidade hemocentro 1;2014;2015;Graco;12,00; 10.914,77 ; 243.876,52 
+IB;Reestruturação suprimeno de energia;2014;2015;Graco;14,60; 8.541,99 ; 829.824,15 
+IE;Novo prédio salas de aula, teleconferência e mini auditório;2013;2015;Graco;2.448,82; 103.819,78 ; 5.976.123,31 
+IE;Reforma sanitários;2015;2015;Graco;159,58; 35.152,88 ; 579.844,84 
+IFGW;Centro de vivência;2014;2015;Graco;68,28; 9.597,28 ; 298.344,94 
+INOVA;Edifício P & D;2014;2015;Graco;1.781,96; 90.432,55 ; 7.215.322,78 
+INOVA;Lab. biocombustíveis LIB;2013;2015;Graco;2.700,00; 10.374,64 ; 513.427,81 
+DGRH;Acessibilidade prédios Reitorias III e IV;2012;2016;IOCH;433,36; 23.270,00 ; 1.432.089,23 
+CSS;Reforma SSACL;2012;2016;IOCH;207,24; 23.270,00 ; 335.504,00 
+CEPETRO;Lab. Petrofísica;2014;2016;TW;1058,76; 62.000,15 ; 5.635.171,65 
+CPO;Reforma do barracão da Marcenaria;2014;2016;Graco;1751,3; 71.539,92 ; 2.675.261,97 
+DEDIC;Arquibancada para quadras PRODECAD;2015;2016;Graco;52,5; 6.932,67 ; 94.720,16 
+FCM;Ampliação CEPRE;2015;2016;Graco;930; 14.219,28 ; 1.157.998,61 
+FEEC;Acessibilidade bloco E;2015;2016;Graco;119,6; 9.804,57 ; 534.270,21 
+FEQ;Bloco salas de aula;2013;2016;Batista e Senna;1297,3; 61.750,00 ; 4.167.126,46 
+FOP;Centro clínico;2014;2016;Graco;2378,08; 109.282,00 ; 7.681.127,43 
+GASTRO;Reforma - nova rede elétrica;2013;2016;SA Engenharia;4060; 40.618,86 ; 1.982.456,78 
+IB;Ampliação pós graduação - estrutura;2015;2016;Graco;617,76; 7.595,83 ; 640.864,34 
+CEB ;2a fase reforma ;2017;2017; Graco ;492,65; 15.085,07 ; 1.221.980,18 
+CECOM ;Reforma Emergencial do CECOM ;2016;2017; Graco ;313,06; 18.036,99 ; 568.202,31 
+CECOM;Reforma e Ampliação;2012;2017;BS;1516,62; 73.646,72 ; 4.241.842,51 
+CEPETRO ;Aterro Lab. Risers;2017;2017;Muro;1771; 13.050,00 ; 1.498.475,95 
+COMVEST;Nova Sede;2015;2017;Graco;2617,92; 121.388,47 ; 9.972.614,68 
+COTUCA;Nova Sede do Cotuca no Campus - ARQ e EST;2015;2017; Graco ;10684,65; 255.943,88 ; 37.308.051,87 
+DEDIC ;Climatização CECI;2016;2017; Fábrica Civil ;485,47; 13.900,00 ; 815.440,94 
+DGA ;Reforma área de funcionários da contratada;2016;2017;Fox Engenharia;52,06; 12.000,00 ; 147.919,56 
+FCM ;Ampliação Cepre/DDRH/Fonoaudiologia;2012;2017;S.A.;951,45; 41.615,49 ; 2.712.664,23 
+FEAGRI ;Acessibilidade prédio 1 ;2016;2017; Graco ;152,02; 11.822,73 ; 490.373,28 
+FEAGRI ;Reservatório Elevado;2016;2017;Dias & Cardozo;690; 16.200,00 ; 312.322,96 
+FEAGRI ;Vestiários para o campo experimental ;2017;2017; Graco ;348,65; 15.735,28 ; 738.446,54 
+FEEC ;Acessibilidade bloco E - revisão projeto EST;2017;2017;Graco;119,6; 3.095,40 ; 11.084,39 
+FEQ ;Ampliação e Reforma do bloco E;2015;2017;WA;135,33; 25.365,50 ; 445.157,96 
+INOVA ;Prédio de Laboratórios P e D ;2016;2017;TW;1206,59; 90.000,00 ; 5.097.975,96 
+FEM;Salas de aula- ampliação prédio 59;2015;2016;Indelmatec;492,48; 24.241,97 ; 1.218.223,88 
+;Revisão - reforma sanitários Bloco Modulado;2018;2018;Graco;37,22; 13.429,30 ; 118.561,07 
+IFGW;Revisão - 3 Projetos;2016;2018;Graco;905,14; 40.592,53 ; 1.607.253,99 
+HEMO;Reforma Hemonúcleo Taubaté;;2016;SA Engenharia;269,15; 23.285,96 ; 507.012,73 
+CPF;Ampliação SSACL;2016;2018;Graco;242; 14.788,69 ; 292.291,14 
+IB;Reforma Elétrica do Bloco N;2017;2018;Graco;1357,8; 9.391,15 ; 918.413,43 
+IEL;Núcleo de Acessibilidade bl. 7;2016;2018;Graco;177,54; 12.771,98 ; 736.951,11 
+IFCH;Núcleo de Acessibilidade do Prédio dos Professores;2016;2018;Graco;153,16; 15.713,20 ; 618.315,41 
+IMECC;Restaurante - Projeto Estrutural;2016;2018;Graco;240,15; 5.706,48 ; 617.873,07 
+IQ;Acessibilidade e reforma sanitários do bloco E e H;2016;2018;Graco;261,31; 20.455,66 ; 958.938,52 
+IA;Acessibilidade do prédio do IA;2016;2018;Graco;1387,89; 70.071,31 ; 3.440.306,67 
+CEL;Acessibilidade e reforma sanitários;2016;2018;Graco;437,19; 16.081,51 ; 709.666,62 
+CPO;Acessibilidade;2016;2018;Graco;178,47; 13.429,30 ; 661.704,20 
+FCM;Acessibilidade 10 e 11;2016;2018;Graco;390,59; 16.096,17 ; 781.576,80 
+FEF;Reforma Piscina;2017;2018;Graco;173,07; 17.123,70 ; 1.021.317,36 
+Reitoria;Acessibilidade prédio CONSU;2016;2018;Graco;200,44; 25.189,30 ; 1.047.344,88 
+FEF;Acessibilidade biblioteca;2016;2018;Graco;136,12; 17.014,10 ; 798.243,35 
+IG;Salas Multiuso;2017;2018;Graco;180; 12.960,00 ; 440.510,27 
+;;;;;;;
+DÚVIDAS;;;;;;;
+Unidade;Objeto;Ano início;Ano Finalização;Empresa;"Área
+m²"; Custo do projeto; Valor orçado para a Obra
+CPF;Adequação infra elétrica, dados, voz campus 1 Limeira;2013;2015;Top Power;54.000,00; 39.990,00 ; 1.694.291,07 
+CPO;Reforma quadro elétrico;2015;2015;Graco;1,00; 1.320,51 ; 3.812,46 
+PREF;SPDA para cobertura dos centros de vivência;2015;2015;Graco;3.202,48; 9.973,25 ; 27.435,51 
+DMA;SPDA;2012;2016;IOCH;1287,3; 23.270,00 ; 153.902,51 
+PREAC;PPCI Casa do Lago;2015;2016;Graco;1095; 14.112,13 ; 31.406,71 
+IFGW;PPCI LEB;2014;2016;Graco;1490; 16.723,12 ; 360.087,03 
+FE;Interligação média tensão;2014;2015;Graco;230,00; 1.893,87 ; 219.347,41 
+IE;Climatização CESIT;2014;2015;Graco;225,00; 11.428,91 ; 212.590,41 
+INOVA;Infraestrutura abastecimento água setor leste;2013;2015;Graco;2.406,00; 10.577,68 ; 1.337.077,07 
+FCA;Adequação rede drenagem;2015;2016;Graco;7313; 13.011,87 ; 2.758.291,32 
+PME;Interligação ELE lavanderia Moradia;2017;2017;Graco;70; 5.885,00 ; 81.404,20 
+;;;;;;;
+;;;;;;;
+FALTANDO INFORMAÇÃO;;;;;;;
+Unidade;Objeto;Ano início;Ano Finalização;Empresa;"Área
+m²"; Custo do projeto; Valor orçado para a Obra
+COTUCA;Nova Sede no Campus - complementares;2015;2017; Graco ;0; 165.164,48 ; - 
+CECOM;Nova rede de esgoto;2016;2016;CPO;-; -; -
+FEM;Drenagem e contenção de talude - REVISÃO;2016;2016;CPO;-; -; -
+IEL;Fundação núcleo acessibilidade bl. 7;2014;2015;Graco;-; 4.819,56 ; -
+CBMEG;Ampliação;2014;2016;Work's;1000,7; -; 3.789.653,47 
+CEMIB;Ampliação área de quarentena e expedição - REMANESCENTE;2016;2016;CPO;178,8; -; 339.386,78 
+DGA;Lavadora carros oficiais - REMANESCENTE;2015;2016;CPO;172,35; -; 242.417,23 
+FE;Escoamento de águas pluviais;2015;2016;CPO;18000; -; 210.018,12 
+IMECC;Reforma sanitários;2015;2016;CPO;412,4; -; 919.313,42 
+IC;IC-4 - 2a etapa - R01;2015;2015;CPO;2.168,62; -; -
+IFCH;Garagem;2014;2015;CPROJ;50,00; -; 147.497,90 
+REITORIA;DGA - PPCI Almoxarifado;2017;2017;Work's;2386,12; -; 490.236,47 
+REITORIA;DGA - Reforma elétrica Almoxarifado;2017;2017;VSA;2386,12; -; 227.711,87 
+COTUCA;Laudo técnico estrutura madeira telhado;2015;2015;Carpinteria;1.000,00; 14.600,00 ; -
+FEF;Cobertura metálica quadras 10 a 13 e mezanino;2015;2015;MDE;3.836,30; 24.800,00 ; -
+IG;Eixos 8 a 12 - atualização;2014;2015;IOCH;2.000,60;; 2.862.619,27 
+PRG;DAC CB2 reforma sanitários;2013;2015;Batista e Senna;400,00;; 585.369,09 
+DEDIC;Projeto de Proteção e Combate a Incêndio;2017;2018;LFB;8610,02; 16.864,56 ; -
+CPF;PPCI para o campus 1;2017;2018;Albert Scabora;15000; 48.000,00 ; -
+CDC;Reforma sanitários GMU;2017;2018;MM De Marqui;284,83; 3.874,00 ; -
